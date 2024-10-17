@@ -11,6 +11,6 @@ _Projeto de estudo_ - status: _Concluído_ 	:white_check_mark:
 ## :monocle_face: Como utilizar
 <ul>
     <li>Clone ou baixe o repositório em sua máquina (Não se esqueça de extrair a pasta)</li>
-    <li>Navegue até a pasta onde o projeto foi clonado (<code>cd Sistema-Gerenciamento-Notas-main</code>)</li>
-    <li>Execute o projeto com o comando <code>dotnet run</code> </li>
+    <li>Navegue até a pasta onde o projeto foi clonado</li>
+    <li>Execute o projeto com o comando <code>dotnet run</code> (Lembre-se de estar na pasta principal do projeto, onde irá encontrar o arquivo <code>Program.cs</code></li>
 </ul>
